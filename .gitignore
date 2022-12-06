@@ -1,2 +1,3 @@
+# should not include the build directories, but only the source directories.
 bin/
 obj/
