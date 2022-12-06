@@ -3,7 +3,7 @@
 Player::Player()
 {
     name = "Don Joe";
-    balance = 1000;
+    balance = 1000000;
     netWorth = balance + calculatedStockValue();
 }
 
